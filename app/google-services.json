@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "269378766802",
+    "project_id": "follow-me-98a8d"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269378766802:android:6aa4b2836df8c0c8",
+        "android_client_info": {
+          "package_name": "com.example.yaseenmunawwer.followme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBzeZrhXIA5NRRHWCIVmfaDcHCJ1dbBLI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-99266135-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
